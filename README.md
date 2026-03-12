@@ -50,7 +50,7 @@ Visualization
 
 Databases
 - MySQL
-- PostgreSQL
+- My SQL Workbench
 
 ---
 
